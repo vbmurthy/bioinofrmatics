@@ -1,8 +1,3 @@
-# Written by Tariq Abdullah
-# Author, Bioinformatics Review
-# tariq@bioinformaticsreview.com
-# www.bioinformaticsreview.com
-
 $CurrentHighest=0;
 
 @GeneExpressionData = (1,3,8,5,2,4,46,6,78,7,9,9,0,1,1,1,5,59,9,97,7,6,5,45,4,3,23,2,22,2,2,4,5,5,6,54);
